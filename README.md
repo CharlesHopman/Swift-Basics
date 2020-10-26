@@ -1,2 +1,2 @@
-# Swift-ViewController-Basics
-Swift ViewController basics with api calls and multiple cells using XIB files
+# Swift-Basics
+Swift basic code snippets for beginners.
